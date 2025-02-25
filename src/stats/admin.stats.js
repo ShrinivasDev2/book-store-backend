@@ -1,4 +1,3 @@
-const mongoose = require("mongoose");
 const express = require("express");
 const Book = require("../books/book.model");
 const Order = require("../orders/orders.model");
